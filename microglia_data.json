@@ -1,0 +1,3462 @@
+{
+    "_embedded": {
+        "neuronResources": [
+            {
+                "neuron_id": 106334,
+                "neuron_name": "wtsalF3068iba3_2",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "54.2003",
+                "surface": "3166.47",
+                "volume": "583.02",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba3_2.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106334"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106334"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106334"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106335,
+                "neuron_name": "wtsalF3035iba5_2",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "37.5021",
+                "surface": "1685.68",
+                "volume": "269.458",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3035iba5_2.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106335"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106335"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106335"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106336,
+                "neuron_name": "wtsalF3035iba3_3",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "19.8494",
+                "surface": "1745.76",
+                "volume": "278.3",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3035iba3_3.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106336"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106336"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106336"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106337,
+                "neuron_name": "wtsalF3068iba1_5",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "68.2611",
+                "surface": "2386.67",
+                "volume": "396.591",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba1_5.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106337"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106337"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106337"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106338,
+                "neuron_name": "wtsalF2935iba4_1",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "33.245",
+                "surface": "1008.5",
+                "volume": "157.938",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF2935iba4_1.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106338"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106338"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106338"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106339,
+                "neuron_name": "wtsalF3068iba2_1",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "10.6503",
+                "surface": "1154.81",
+                "volume": "105.807",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba2_1.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106339"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106339"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106339"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106340,
+                "neuron_name": "wtsalF3035iba4_1",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "87.6572",
+                "surface": "2476.12",
+                "volume": "410.688",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3035iba4_1.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106340"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106340"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106340"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106341,
+                "neuron_name": "wtsalF3068iba5_3",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "24.0486",
+                "surface": "1605.05",
+                "volume": "148.129",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba5_3.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106341"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106341"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106341"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106342,
+                "neuron_name": "wtsalF2935iba3_3",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, No Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": null,
+                "surface": "1188.94",
+                "volume": "194.2",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF2935iba3_3.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106342"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106342"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106342"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106343,
+                "neuron_name": "wtsalF3068iba1_4",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "23.1389",
+                "surface": "2188.19",
+                "volume": "349.076",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba1_4.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106343"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106343"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106343"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106344,
+                "neuron_name": "wtsalF3035iba3_2",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "36.1117",
+                "surface": "2136.12",
+                "volume": "344.124",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3035iba3_2.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106344"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106344"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106344"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106345,
+                "neuron_name": "wtsalF2935iba3_2",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, No Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": null,
+                "surface": "1335.65",
+                "volume": "215.2",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF2935iba3_2.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106345"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106345"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106345"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106346,
+                "neuron_name": "wtsalF3068iba5_2",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "8.37629",
+                "surface": "1241.67",
+                "volume": "115.764",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba5_2.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106346"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106346"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106346"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106347,
+                "neuron_name": "wtsalF3035iba2_1",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "54.7521",
+                "surface": "1454.79",
+                "volume": "226.523",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3035iba2_1.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106347"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106347"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106347"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106348,
+                "neuron_name": "wtsalF3068iba3_3",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "22.926",
+                "surface": "571.326",
+                "volume": "104.813",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba3_3.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106348"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106348"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106348"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106349,
+                "neuron_name": "wtsalF3035iba5_3",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "101.303",
+                "surface": "1368.63",
+                "volume": "222.442",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3035iba5_3.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106349"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106349"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106349"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106350,
+                "neuron_name": "wtsalF3068iba4_1",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "8.02391",
+                "surface": "304.137",
+                "volume": "27.282",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba4_1.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106350"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106350"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106350"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106351,
+                "neuron_name": "wtsalF2935iba2_1",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "64.2558",
+                "surface": "2114.98",
+                "volume": "342.463",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF2935iba2_1.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106351"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106351"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106351"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106352,
+                "neuron_name": "wtsalF3068iba2_2",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "25.0925",
+                "surface": "1094.61",
+                "volume": "97.4328",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba2_2.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106352"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106352"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106352"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106353,
+                "neuron_name": "wtsalF2935iba4_2",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, No Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": null,
+                "surface": "1266.05",
+                "volume": "198.666",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF2935iba4_2.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106353"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106353"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106353"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106354,
+                "neuron_name": "wtsalF3035iba4_2",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "16.5412",
+                "surface": "2211.12",
+                "volume": "370.767",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3035iba4_2.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106354"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106354"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106354"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106355,
+                "neuron_name": "wtsalF3068iba3_1",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "30.9793",
+                "surface": "1772.08",
+                "volume": "330.133",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba3_1.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106355"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106355"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106355"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106356,
+                "neuron_name": "wtsalF3035iba2_3",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "4.64685",
+                "surface": "1853.33",
+                "volume": "303.312",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3035iba2_3.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106356"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106356"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106356"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106357,
+                "neuron_name": "wtsalF3068iba4_3",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, No Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": null,
+                "surface": "1114.51",
+                "volume": "111.511",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba4_3.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106357"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106357"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106357"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106358,
+                "neuron_name": "wtsalF2935iba2_3",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, No Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": null,
+                "surface": "1640.65",
+                "volume": "253.363",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF2935iba2_3.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106358"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106358"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106358"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106359,
+                "neuron_name": "wtsalF3035iba5_1",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "31.762",
+                "surface": "1062.24",
+                "volume": "179.971",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3035iba5_1.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106359"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106359"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106359"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106360,
+                "neuron_name": "wtsalF3035iba2_2",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "11.1561",
+                "surface": "2124.25",
+                "volume": "334.426",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3035iba2_2.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106360"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106360"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106360"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106361,
+                "neuron_name": "wtsalF2935iba2_2",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, No Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": null,
+                "surface": "1798.37",
+                "volume": "291.966",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF2935iba2_2.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106361"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106361"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106361"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106362,
+                "neuron_name": "wtsalF3068iba4_2",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "5.40912",
+                "surface": "2000.3",
+                "volume": "182.895",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba4_2.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106362"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106362"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106362"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106363,
+                "neuron_name": "wtsalF2935iba4_3",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, No Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": null,
+                "surface": "1579.81",
+                "volume": "253.032",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF2935iba4_3.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106363"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106363"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106363"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106364,
+                "neuron_name": "wtsalF3068iba2_3",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "3.90338",
+                "surface": "1210.16",
+                "volume": "113.264",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba2_3.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106364"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106364"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106364"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106365,
+                "neuron_name": "wtsalF3035iba3_1",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "13.501",
+                "surface": "1650.26",
+                "volume": "256.667",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3035iba3_1.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106365"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106365"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106365"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106366,
+                "neuron_name": "wtsalF3068iba5_1",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "4.29791",
+                "surface": "1242.73",
+                "volume": "116.047",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba5_1.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106366"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106366"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106366"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106367,
+                "neuron_name": "wtsalF2935iba3_1",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, No Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": null,
+                "surface": "3227.18",
+                "volume": "497.805",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF2935iba3_1.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106367"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106367"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106367"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106368,
+                "neuron_name": "wtsalF3035iba4_3",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, No Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": null,
+                "surface": "1808.84",
+                "volume": "294.562",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3035iba4_3.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106368"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106368"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106368"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106369,
+                "neuron_name": "wtsalF2935iba3_4",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, No Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": null,
+                "surface": "2119.45",
+                "volume": "329.258",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF2935iba3_4.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106369"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106369"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106369"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106370,
+                "neuron_name": "wtsalF3068iba2_6",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "2.92075",
+                "surface": "1653.62",
+                "volume": "152.788",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba2_6.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106370"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106370"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106370"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106371,
+                "neuron_name": "wtsalF3068iba1_2",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "35.4335",
+                "surface": "874.328",
+                "volume": "145.687",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba1_2.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106371"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106371"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106371"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106372,
+                "neuron_name": "wtsalF3068iba3_5",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "28.0922",
+                "surface": "3356.26",
+                "volume": "629.002",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba3_5.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106372"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106372"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106372"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106373,
+                "neuron_name": "wtsalF2935iba1_2",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, No Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": null,
+                "surface": "1623.79",
+                "volume": "262.418",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF2935iba1_2.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106373"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106373"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106373"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106374,
+                "neuron_name": "wtsalF3068iba3_4",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "21.4129",
+                "surface": "5050.15",
+                "volume": "899.784",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba3_4.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106374"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106374"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106374"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106375,
+                "neuron_name": "wtsalF2935iba3_5",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "4.94222",
+                "surface": "2436.98",
+                "volume": "379.804",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF2935iba3_5.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106375"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106375"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106375"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106376,
+                "neuron_name": "wtsalF3068iba2_7",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "20.0342",
+                "surface": "1499.16",
+                "volume": "140.015",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba2_7.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106376"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106376"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106376"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106377,
+                "neuron_name": "wtsalF3068iba1_3",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "52.1198",
+                "surface": "1165.46",
+                "volume": "186.285",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba1_3.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106377"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106377"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106377"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106378,
+                "neuron_name": "wtsalF3068iba4_4",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "0.736151",
+                "surface": "1582.08",
+                "volume": "147.743",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba4_4.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106378"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106378"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106378"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106379,
+                "neuron_name": "wtsalF2935iba2_4",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "26.5744",
+                "surface": "1154.72",
+                "volume": "186.905",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF2935iba2_4.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106379"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106379"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106379"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106380,
+                "neuron_name": "wtsalF3035iba2_4",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "1.41234",
+                "surface": "2508.52",
+                "volume": "394.804",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3035iba2_4.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106380"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106380"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106380"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106381,
+                "neuron_name": "wtsalF3068iba3_6",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "42.9264",
+                "surface": "4152.93",
+                "volume": "744.565",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba3_6.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106381"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106381"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106381"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106382,
+                "neuron_name": "wtsalF3068iba1_1",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": "29.1554",
+                "surface": "2068.18",
+                "volume": "335.358",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba1_1.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106382"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106382"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106382"
+                    }
+                }
+            },
+            {
+                "neuron_id": 106383,
+                "neuron_name": "wtsalF3068iba2_5",
+                "archive": "Bilkei-Gorzo",
+                "note": "Animals were injected with vehicle and sacrificed 24 hours after the injection.",
+                "age_scale": "Month",
+                "gender": "Male/Female",
+                "age_classification": "adult",
+                "brain_region": [
+                    "hippocampus"
+                ],
+                "cell_type": [
+                    "Glia",
+                    "microglia",
+                    "Iba1-positive"
+                ],
+                "species": "mouse",
+                "strain": "C57BL/6J",
+                "scientific_name": null,
+                "stain": "immunostaining",
+                "experiment_condition": [
+                    "Control"
+                ],
+                "protocol": "in vitro",
+                "slicing_direction": "coronal",
+                "reconstruction_software": "Simple Neurite Tracer",
+                "objective_type": "water",
+                "original_format": "Simple Neurite Tracer.swc",
+                "domain": "Processes, No Soma",
+                "attributes": "Diameter, 3D, Angles",
+                "magnification": "63",
+                "upload_date": "2019-04-08",
+                "deposition_date": "2018-10-25",
+                "shrinkage_reported": "Not Reported",
+                "shrinkage_corrected": "",
+                "reported_value": null,
+                "reported_xy": null,
+                "reported_z": null,
+                "corrected_value": null,
+                "corrected_xy": null,
+                "corrected_z": null,
+                "soma_surface": null,
+                "surface": "1367.02",
+                "volume": "135.537",
+                "slicing_thickness": "16",
+                "min_age": "3.0",
+                "max_age": "3.0",
+                "min_weight": "Not Reported",
+                "max_weight": "Not Reported",
+                "png_url": "http://neuromorpho.org/images/imageFiles/Bilkei-Gorzo/wtsalF3068iba2_5.png",
+                "reference_pmid": [
+                    "30210289"
+                ],
+                "reference_doi": [
+                    "10.3389/fnmol.2018.00295"
+                ],
+                "physical_Integrity": "Process Moderate",
+                "_links": {
+                    "self": {
+                        "href": "http://neuromorpho.org/api/neuron/id/106383"
+                    },
+                    "measurements": {
+                        "href": "http://neuromorpho.org/api/morphometry/id/106383"
+                    },
+                    "persistence_vector": {
+                        "href": "http://neuromorpho.org/api/pvec/id/106383"
+                    }
+                }
+            }
+        ]
+    },
+    "page": {
+        "size": 50,
+        "totalElements": 61172,
+        "totalPages": 1224,
+        "number": 0
+    }
+}
